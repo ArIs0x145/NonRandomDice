@@ -1,0 +1,8 @@
+train: randomdice-plug/dataset/train
+val: randomdice-plug/dataset/valid
+
+names:
+  0: boss-hit
+  1: landmine
+  2: wave
+
